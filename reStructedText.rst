@@ -1,6 +1,6 @@
+`Creative Commons Attribution 3.0 Unported`__ license.
 
-- [reStructedText文本标记语言常用语法](http://docutils.sourceforge.net/docs/user/rst/quickref.html)_
-
+__ http://creativecommons.org/licenses/by/3.0/
 
 *emphasis*
 
