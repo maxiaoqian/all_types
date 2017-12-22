@@ -1,4 +1,4 @@
-`链接`__ license.
+`外部链接`__ license.
 
 
 
