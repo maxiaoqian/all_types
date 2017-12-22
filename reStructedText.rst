@@ -1,6 +1,11 @@
 `Creative Commons Attribution 3.0 Unported`__ license.
 
+
+
+
 __ http://creativecommons.org/licenses/by/3.0/
+
+
 
 *emphasis*
 
