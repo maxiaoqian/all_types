@@ -1,4 +1,4 @@
-`Creative Commons Attribution 3.0 Unported`__ license.
+`链接`__ license.
 
 
 
